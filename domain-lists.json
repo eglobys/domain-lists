@@ -1,0 +1,12 @@
+{
+  "whitelist": [
+    "wikipedia.org",
+    "github.com",
+    "developer.mozilla.org",
+    "linkedin.com"
+  ],
+  "blacklist": [
+    "delfi.lt",
+    "pigu.lt"
+  ]
+}
